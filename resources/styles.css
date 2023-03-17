@@ -13,6 +13,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     background: rgb(255,146,87);
     background: radial-gradient(circle, rgba(255,146,87,1) 0%, rgba(255,132,87,1) 56%, rgba(233,43,203,1) 100%);
 }
